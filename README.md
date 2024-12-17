@@ -28,11 +28,10 @@ REG NO : 24002364
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output 
 
 ![Screenshot 2024-12-16 203156](https://github.com/user-attachments/assets/02e5aac7-6d23-4fe7-93ab-183c549318b2)
 ![Screenshot 2024-12-16 203218](https://github.com/user-attachments/assets/18e737a6-e494-4c7d-a116-d60eb8ebb1e8)
 
-
-# Output 
+# Result
 The correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
